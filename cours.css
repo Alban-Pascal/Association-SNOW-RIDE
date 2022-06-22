@@ -1,0 +1,13 @@
+aside {
+    position: absolute;
+}
+
+body {
+    background-image:url(pexels-egor-kamelev.jpg) ;
+    color: aliceblue;
+}
+
+
+span {
+    background-color: aliceblue;
+}
