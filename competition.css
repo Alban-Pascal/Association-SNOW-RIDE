@@ -1,0 +1,29 @@
+#carouselExampleControls{
+    height: 100%;
+    padding: 0px;
+}
+
+    .carousel-inner{
+        height: 100%;
+    }
+
+        .carousel-item {
+            height:100%;
+        }
+
+
+    .carousel-item img {
+        height:100%;
+    }
+
+  #carouselExampleControls {
+    height:30rem;
+  }
+
+  body {
+    background-image:url(pexels-egor-kamelev.jpg) ;
+  }
+
+  h1 {
+    color: aliceblue;
+  }
