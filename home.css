@@ -31,14 +31,21 @@ header, main, footer {
 
   #color {
     color: aliceblue;
-
-  }
+}
 
   .card {
-    height: 28rem;
+   margin: 3rem;
+}
 
-  }
+.card-body{
+height: 25rem;
+}
 
   #contact {
     background-color: rgb(233, 241, 243, 0.4)
+  }
+
+  h1 {
+    text-align: center;
+    color: aliceblue;
   }
